@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Where To Go</string>
+    <string name="first_title">Favorite places</string>
+    <string name="suggest">Suggest an interesting place</string>
+    <string name="route">Route</string>
+    <string name="example">EXAMPLE</string>
+</resources>
