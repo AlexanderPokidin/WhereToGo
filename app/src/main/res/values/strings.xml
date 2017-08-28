@@ -4,4 +4,8 @@
     <string name="suggest">Suggest an interesting place</string>
     <string name="route">Route</string>
     <string name="example">EXAMPLE</string>
+    <string-array name="category">
+        <item>Parks</item>
+        <item>Churches</item>
+    </string-array>
 </resources>
